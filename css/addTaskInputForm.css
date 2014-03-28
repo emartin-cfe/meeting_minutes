@@ -1,0 +1,62 @@
+/* This is for my input forms when not using CKEditor */
+.myform{
+	margin: 0 auto;
+	width:900px;
+	padding:14px;
+	}
+
+#stylized{
+	border:solid 2px #b7ddf2;
+	background:#ebf4fb;
+	}
+
+#stylized h1 {
+	font-size:16px;
+	font-weight:bold;
+	margin-bottom:20px;
+	padding-bottom:20px;
+	border-bottom:solid 1px #b7ddf2;
+	}
+
+#stylized label {
+	display:block;
+	font-weight:bold;
+	text-align:right;
+	width:140px;
+	float:left;
+	}
+
+#stylized div.label {
+	display:block;
+	font-weight:bold;
+	text-align:right;
+	width:140px;
+	float:left;
+	}
+
+
+#stylized input{
+	font-size:12px;
+	padding:4px 2px;
+	border:solid 1px #aacfe4;
+	width:600px;
+	margin:2px 0 20px 10px;
+	}
+
+#stylized input.hidden {
+	display:none;
+	}
+
+#stylized select {
+	padding:4px 2px;
+	width:705px;
+	margin:2px 0 20px 10px;
+	}
+
+#stylized textarea {
+	padding:4px 2px;
+	border:solid 1px #aacfe4;
+	width:700px;
+	height:100px;
+	margin:2px 0 20px 10px;
+	}

@@ -1,0 +1,17 @@
+div.dateField {
+	margin-bottom:20px;
+	margin-left:150px;
+	margin-top:0px;
+	text-align:center;
+	width: 200px;
+	height:18px;
+	padding: 2px;
+	color: #555;
+	background-color: white;
+	border:solid 1px #aacfe4;
+	}
+
+div#popupDateField:hover {
+	background-color: #cde;
+	cursor: pointer;
+	}
